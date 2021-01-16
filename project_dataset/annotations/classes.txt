@@ -1,0 +1,5 @@
+traffic_cop
+school_children
+old_pedestrian
+pedestrian
+construction_worker
